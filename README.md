@@ -158,3 +158,6 @@ Contributing to our projects is always very appreciated.
 ## License
 
 PHP String Builder is under the MIT license.
+
+## Tests
+./vendor/bin/phpunit --bootstrap vendor/autoload.php 
